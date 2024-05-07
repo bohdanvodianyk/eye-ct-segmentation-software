@@ -1,0 +1,1 @@
+monailabel start_server --app apps/radiology --studies .\test-model\ --conf models segmentation
